@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Venkat</string>
+    <string name="facebook_app_id">3069646276514643</string>
+    <string name="fb_login_protocol_scheme">fb3069646276514643</string>
+    <string name="facebook_client_token">425a3256cc2d0ef357b04ce3a4aeec7e</string>
+</resources>
